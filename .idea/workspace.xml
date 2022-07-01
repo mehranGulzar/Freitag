@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4c7ef9-940a-4bc0-97a6-9f27b8ed2376" name="Changes" comment="Password validation" />
+    <list default="true" id="cf4c7ef9-940a-4bc0-97a6-9f27b8ed2376" name="Changes" comment="Password validation mit workflow" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656669892033</updated>
-      <workItem from="1656669894480" duration="3846000" />
+      <workItem from="1656669894480" duration="4152000" />
     </task>
     <task id="LOCAL-00001" summary="Password validation">
       <created>1656677651460</created>
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656677651461</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Password validation mit workflow">
+      <created>1656678107415</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656678107416</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Password validation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Password validation" />
+    <MESSAGE value="Password validation mit workflow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Password validation mit workflow" />
   </component>
 </project>
